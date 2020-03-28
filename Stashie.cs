@@ -188,11 +188,11 @@ namespace Stashie
                 "Veiled:\t\t\tVeiled>0\t:Special items\r\n"+
                 "AnyInfluence:\t\t\tinfluenced\t:Special items\r\n"+
                 "\r\n" +
-                "//league Content"+
-                "Legion-Incubators:\t\t\tpath^CurrencyIncubation\t:League Items"+
-                "Delirium-Splinter:\t\t\tpath^CurrencyAfflictionShard\t:League Items" +
-                "Delirium-Simulacrum:\t\t\tpath^CurrencyAfflictionFragment\t:League Items" +
-                "Blight-AnnointOils:\t\t\tpath^Mushrune\t:League Items" +
+                "//league Content\r\n"+
+                "Legion-Incubators:\t\t\tpath^CurrencyIncubation\t:League Items\r\n"+
+                "Delirium-Splinter:\t\t\tpath^CurrencyAfflictionShard\t:League Items\r\n" +
+                "Delirium-Simulacrum:\t\t\tpath^CurrencyAfflictionFragment\t:League Items\r\n" +
+                "Blight-AnnointOils:\t\t\tpath^Mushrune\t:League Items\r\n" +
                 "//Chance Items\r\n" +
                 "Sorcerer Boots:\tBaseName=Sorcerer Boots,Rarity=Normal\t:Chance Items\r\n" +
                 "Leather Belt:\tBaseName=Leather Belt,Rarity=Normal\t\t:Chance Items\r\n" +
