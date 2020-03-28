@@ -185,8 +185,8 @@ namespace Stashie
                 "Jewels:\t\t\t\tClassName=Jewel,Rarity != Unique\t\t\t\t\t\t\t\t:Default Tabs\r\n" +
                 "\r\n" +
                 "//Special Items\r\n"+
-                "Veiled:\t\t\tVeiled>0\t:Special items"+
-                "AnyInfluence:\t\t\tinfluenced\t:Special items"+
+                "Veiled:\t\t\tVeiled>0\t:Special items\r\n"+
+                "AnyInfluence:\t\t\tinfluenced\t:Special items\r\n"+
                 "\r\n" +
                 "//league Content"+
                 "Legion-Incubators:\t\t\tpath^CurrencyIncubation\t:League Items"+
